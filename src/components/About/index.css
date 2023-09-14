@@ -14,3 +14,16 @@
 .about-heading {
   font-family: 'roboto';
 }
+
+@media (min-width: 576px) {
+  .about-heading {
+    font-size: 48px;
+  }
+}
+
+.about-paragraph {
+  font-family: 'roboto';
+  font-size: 20px;
+  text-align: center;
+  color: #555555;
+}
